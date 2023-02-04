@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Jitpanu Nopwijit | Night Food | @teenteennnii |
+| Jitpanu Nopwijit | Night Food | [teenteennnii](https://github.com/teenteennnii) |
 
