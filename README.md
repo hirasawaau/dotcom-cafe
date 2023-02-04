@@ -21,6 +21,7 @@
 ## About Us
 
 
+
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Chanakarn Sriudom | Dessert | [@saiisaai](https://github.com/saiisaai) |
@@ -29,4 +30,6 @@
 | Sila Sonpee | Dinner | [hirasawaau](https://github.com/hirasawaau/) |
 | Supakrit Aphonmaeklong  | Lunch | [Supakrit65](https://github.com/Supakrit65) |
 | Wittawat Phongphrit | Section | [WatWittawat](https://github.com/WatWittawat) | 
+| Vorakorn Leechavanan | Beverages | [VorakornLeechavanan](https://github.com/VorakornLeechavanan) |
+
 
