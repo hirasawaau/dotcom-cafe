@@ -29,6 +29,7 @@
 **TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
 
 
+
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Chanakarn Sriudom | Dessert | [@saiisaai](https://github.com/saiisaai) |
@@ -36,5 +37,7 @@
 | Jitpanu Nopwijit | Night Food | [teenteennnii](https://github.com/teenteennnii) |
 | Sila Sonpee | Dinner | [hirasawaau](https://github.com/hirasawaau/) |
 | Supakrit Aphonmaeklong  | Lunch | [Supakrit65](https://github.com/Supakrit65) |
+| Vorakorn Leechavanan | Beverages | [VorakornLeechavanan](https://github.com/VorakornLeechavanan) |
 | Wittawat Phongphrit | Section | [WatWittawat] (https://github.com/WatWittawat) | 
+
 
