@@ -18,6 +18,14 @@
 
 ## Beverages
 
+| Item           | Price |
+|----------------|-------|
+| Cola           | 10    |
+| Drinking Water | 7     |
+| Pandan Juice   | 5     |
+| Milkshake      | 25    |
+| Chocolate      | 15    |
+
 
 
 ---
