@@ -31,7 +31,9 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Chanakarn Sriudom | Dessert | [@saiisaai](https://github.com/saiisaai) |
 | Ratthicha Parinthip | Breakfast menu | [@premepreme](https://github.com/premepreme) |
 | Jitpanu Nopwijit | Night Food | [teenteennnii](https://github.com/teenteennnii) |
 | Sila Sonpee | Dinner | [hirasawaau](https://github.com/hirasawaau/) |
 | Supakrit Aphonmaeklong  | Lunch | [Supakrit65](https://github.com/Supakrit65) |
+
