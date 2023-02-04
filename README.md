@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
+[Breakfast](./Menu.md#breakfast) | [Lunch](./Menu.md#lunch) | [Dinner](./Menu.md#dinner) | [Night Food](./Menu.md#night-food)| [Beverages](./Menu.md#beverages) | [Dessert](./Menu.md#dessert) |
  
 **TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
 **TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
@@ -36,4 +36,5 @@ Section1 | Section2 | Section3 | ...
 | Jitpanu Nopwijit | Night Food | [teenteennnii](https://github.com/teenteennnii) |
 | Sila Sonpee | Dinner | [hirasawaau](https://github.com/hirasawaau/) |
 | Supakrit Aphonmaeklong  | Lunch | [Supakrit65](https://github.com/Supakrit65) |
+| Wittawat Phongphrit | Section | [WatWittawat] (https://github.com/WatWittawat) | 
 
