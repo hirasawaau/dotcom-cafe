@@ -31,4 +31,6 @@ Section1 | Section2 | Section3 | ...
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Jitpanu Nopwijit | Night Food | [teenteennnii](https://github.com/teenteennnii) |
+| Sila Sonpee | Dinner | [hirasawaau](https://github.com/hirasawaau/) |
+
 
