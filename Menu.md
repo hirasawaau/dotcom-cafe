@@ -14,6 +14,13 @@
 
 
 ## Night Food
+| Items                | Price |
+|:------------------|----------|
+| BBQ               | 15       |
+| Sausage           | 10       |
+| Isaan Sausage     | 20       |
+| Takoyaki          | 75       |
+| Okonomiyaki       | 120      |
 
 
 ## Beverages
