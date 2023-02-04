@@ -12,7 +12,12 @@
 | omelette                 | 20       |
 | sausage                  | 10       |
 
-## Lunch 
+## Lunch
+| Item          | Price (THB) |
+|:--------------|------------:|
+| Chicken Rice  |       40.00 |
+| Scrambled Egg |       30.00 |
+| Boil Egg      |       10.00 |
 
 
 ## Dinner
