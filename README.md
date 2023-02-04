@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Ratthicha Parinthip | Breakfast menu | @premepreme |
+| Ratthicha Parinthip | Breakfast menu | [@premepreme](https://github.com/premepreme) |
 
