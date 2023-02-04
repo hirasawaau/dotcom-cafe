@@ -7,7 +7,11 @@
     Fried Grasshoppers (terrible)  -10
     (use proper Markdown formatting, not literal text like this)
 
-## Lunch 
+## Lunch
+| Item          | Price (THB) |
+|:--------------|---:|
+| Chicken Rice  | 40.00 |
+| Scrambled Egg | 30.00 |
 
 
 ## Dinner
