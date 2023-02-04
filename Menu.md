@@ -9,9 +9,10 @@
 
 ## Lunch
 | Item          | Price (THB) |
-|:--------------|---:|
-| Chicken Rice  | 40.00 |
-| Scrambled Egg | 30.00 |
+|:--------------|------------:|
+| Chicken Rice  |       40.00 |
+| Scrambled Egg |       30.00 |
+| Boil Egg      |       10.00 |
 
 
 ## Dinner
