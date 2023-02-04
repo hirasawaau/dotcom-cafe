@@ -28,7 +28,7 @@ Section1 | Section2 | Section3 | ...
   
 **TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
 
-| Name     | Role          | Github      |
-|:---------|---------------|-------------|
-| Supakrit | Aphonmaeklong | @Supakrit65 |
+| Name     | Role          | Github          |
+|:---------|---------------|-----------------|
+| Supakrit | Aphonmaeklong | [Supakrit65](https://github.com/Supakrit65) |
 
